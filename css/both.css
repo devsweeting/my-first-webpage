@@ -1,0 +1,43 @@
+h1 {
+  font-weight: bold;
+  font-family: fantasy;
+  color: white;
+  background-color: slategray;
+  text-align:center;
+  margin-top: 100px;
+  padding-top: 15px;
+}
+
+.cat {
+  display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+.nowhere {
+  width: 100%;
+  height: 50%;
+}
+
+body {
+  text-align: center;
+}
+
+h2 {
+  font-style: italic;
+  text-align:center;
+}
+
+p {
+  font-family:sans-serif;
+}
+p2 {
+  font-weight: bold;
+  font-family: fantasy;
+}
+
+ul {
+  font-size: 30px;
+  line-height: 60px;
+}
