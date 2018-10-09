@@ -1,5 +1,22 @@
 h1 {
-  color: blue;
+  font-weight: bold;
+  font-family: fantasy;
+  color: white;
+  background-color: slategray;
+  text-align:center;
+  margin-top: 100px;
+  padding-top: 15px;
+}
+
+.center {
+  display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+body {
+  text-align: center;
 }
 
 h2 {
@@ -10,8 +27,13 @@ h2 {
 p {
   font-family:sans-serif;
 }
+p2 {
+  font-weight: bold;
+  font-family: fantasy;
+}
 
 ul {
-  font-size: 20px;
-  line-height: 30px
+  font-size: 50px;
+  line-height: 60px
+
 }
