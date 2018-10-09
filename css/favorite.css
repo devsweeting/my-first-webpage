@@ -1,3 +1,15 @@
 h1 {
-  
+  color:blue;
+  text-align: center;
+  text-decoration: underline;
+  font-size: 100px;
+}
+
+.center {
+  width: 100%;
+  height: 50%;
+}
+h2 {
+  text-align: center;
+  color: purple;
 }
